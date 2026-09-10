@@ -25,20 +25,20 @@
 
 ```kotlin
 val mizumi = Developer(
-    name      = "Mizumi Kawai",
-    role      = "Multi-platform Developer",
-    location  = "Vietnam 🇻🇳",
-    focus     = listOf("Android", "Web", "Desktop tools"),
-    learning  = listOf("Kotlin Multiplatform", "Vue", "TypeScript"),
-    hobbies   = listOf("Tinkering with devices 🔧", "Porting software to new platforms 📦", "Exploring new tech 🚀"),
-    motto     = "Build things, break things, learn things."
+    name       = "Mizumi Kawai",
+    role       = "Multi-platform Developer",
+    location   = "Vietnam 🇻🇳",
+    focus      = listOf("Android", "Web", "Desktop applications"),
+    learning   = listOf("Kotlin Multiplatform", "Vue", "TypeScript"),
+    interests  = listOf("Software architecture 🏗️", "Developer tooling ⚙️", "Open source 🌍"),
+    motto      = "Build things, break things, learn things."
 )
 ```
 
-- 🔭 Currently working on **Android utility apps** and **retro-gaming tools**
+- 🔭 Currently working on **Android applications** and **cross-platform developer tools**
 - 🌱 Always exploring new languages, frameworks and platforms
 - 💬 Ask me about **Kotlin**, **Android**, **Vue** or **anything tech**
-- ⚡ Fun fact: I love porting old software to new devices
+- 🎯 Goal: building software that scales across every platform
 
 <br clear="right"/>
 
