@@ -130,18 +130,6 @@ val mizumi = Developer(
   </picture>
 </div>
 
-<!-- ═══════════════════════════ FEATURED ═══════════════════════════ -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎮 Retro Gaming | 📱 Android & Tools |
-|:---:|:---:|
-| [![freej2me-anbernic](https://img.shields.io/badge/freej2me--anbernic-J2ME%20on%20Anbernic-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizumiKawai/freej2me-anbernic) | [![TapTranslate](https://img.shields.io/badge/TapTranslate-Kotlin%20App-7873f5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MizumiKawai/TapTranslate) |
-| [![freej2me-miyoomini](https://img.shields.io/badge/freej2me--miyoomini-J2ME%20on%20Miyoo-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizumiKawai/freej2me-miyoomini) | [![Download-macOS](https://img.shields.io/badge/Download--macOS-Utility-4facfe?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/MizumiKawai/Download-macOS) |
-
-</div>
-
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
