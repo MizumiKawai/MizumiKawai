@@ -94,8 +94,13 @@ val mizumi = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MizumiKawai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec7&icon_color=4facfe&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizumiKawai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MizumiKawai&theme=radical" width="95%" alt="profile details" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizumiKawai&theme=radical" alt="stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MizumiKawai&theme=radical" alt="repos per language" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MizumiKawai&theme=radical" alt="most commit language" />
 </div>
 
 <div align="center">
@@ -103,12 +108,11 @@ val mizumi = Developer(
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizumiKawai&theme=react-dark&bg_color=0D1117&color=c9d1d9&line=ff6ec7&point=4facfe&area=true&hide_border=true" width="95%" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MizumiKawai&theme=radical&utcOffset=7" width="45%" alt="productive time" />
 </div>
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MizumiKawai&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+  <img src="https://ghchart.rshah.org/ff6ec7/MizumiKawai" width="95%" alt="contribution chart" />
 </div>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
@@ -130,12 +134,12 @@ val mizumi = Developer(
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/MizumiKawai/TapTranslate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MizumiKawai&repo=TapTranslate&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec7&icon_color=4facfe" alt="TapTranslate" />
-  </a>
-  <a href="https://github.com/MizumiKawai/freej2me-anbernic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MizumiKawai&repo=freej2me-anbernic&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec7&icon_color=4facfe" alt="freej2me-anbernic" />
-  </a>
+
+| 🎮 Retro Gaming | 📱 Android & Tools |
+|:---:|:---:|
+| [![freej2me-anbernic](https://img.shields.io/badge/freej2me--anbernic-J2ME%20on%20Anbernic-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizumiKawai/freej2me-anbernic) | [![TapTranslate](https://img.shields.io/badge/TapTranslate-Kotlin%20App-7873f5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MizumiKawai/TapTranslate) |
+| [![freej2me-miyoomini](https://img.shields.io/badge/freej2me--miyoomini-J2ME%20on%20Miyoo-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizumiKawai/freej2me-miyoomini) | [![Download-macOS](https://img.shields.io/badge/Download--macOS-Utility-4facfe?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/MizumiKawai/Download-macOS) |
+
 </div>
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
