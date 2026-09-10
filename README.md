@@ -30,7 +30,7 @@ val mizumi = Developer(
     location  = "Vietnam 🇻🇳",
     focus     = listOf("Android", "Web", "Desktop tools"),
     learning  = listOf("Kotlin Multiplatform", "Vue", "TypeScript"),
-    hobbies   = listOf("Manga & Anime 📖", "Retro gaming 🎮", "Tinkering with devices 🔧"),
+    hobbies   = listOf("Tinkering with devices 🔧", "Porting software to new platforms 📦", "Exploring new tech 🚀"),
     motto     = "Build things, break things, learn things."
 )
 ```
